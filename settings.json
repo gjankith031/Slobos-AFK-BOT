@@ -29,7 +29,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 500,
-      "messages": []
+      "messages": [""]
     },
     "chat-log": true,
     "auto-reconnect": true,
